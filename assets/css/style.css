@@ -57,7 +57,7 @@ letter-spacing: 4px;
 
 /*Bloody Sunday-image*/
 
-#hero-outer{
+#port-outer{
     height:600px;
     width:100%;
     overflow: hidden;
@@ -66,7 +66,7 @@ letter-spacing: 4px;
 }
 
 
-#hero-image{
+#port1-image{
     height:600px;
     width:100%;
     background: url('../images/header.jpg') no-repeat center center;
@@ -148,12 +148,6 @@ footer{
   }
 
 @media screen and (max-width: 1200px) {
-    #club-ethos{
-        width:65%;
-        height:1200px;
-        margin:0 auto;
-    }
-
     #welcome{
         padding: 30px 0;
         margin:0;
